@@ -1,0 +1,8 @@
+torch
+clip-anytorch
+numpy
+opencv-python
+faiss-cpu
+streamlit
+Pillow
+# torch.classes.__path__ = []
